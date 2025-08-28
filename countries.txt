@@ -1,5 +1,5 @@
 Afghanistan 
-Africa (GCP) 
+Africa(GCP) 
 Africa 
 Albania 
 Algeria 
@@ -7,12 +7,12 @@ Andorra
 Angola 
 Anguilla 
 Antarctica 
-Antigua and Barbuda 
+AntiguaandBarbuda 
 Argentina 
 Armenia 
 Aruba 
-Asia (excl. China and India) 
-Asia (GCP) 
+Asia(excl.ChinaandIndia) 
+Asia(GCP) 
 Asia 
 Australia 
 Austria 
@@ -28,61 +28,61 @@ Benin
 Bermuda 
 Bhutan 
 Bolivia 
-Bonaire Sint Eustatius and Saba 
-Bosnia and Herzegovina 
+BonaireSintEustatiusandSaba 
+BosniaandHerzegovina 
 Botswana 
 Brazil 
-British Virgin Islands 
+BritishVirginIslands 
 Brunei 
 Bulgaria 
-Burkina Faso 
+BurkinaFaso 
 Burundi 
 Cambodia 
 Cameroon 
 Canada 
-Cape Verde 
-Central African Republic 
-Central America (GCP) 
+CapeVerde 
+CentralAfricanRepublic 
+CentralAmerica(GCP) 
 Chad 
 Chile 
 China 
-Christmas Island 
+ChristmasIsland 
 Colombia 
 Comoros 
 Congo 
-Cook Islands 
-Costa Rica 
-Cote d'Ivoire 
+CookIslands 
+CostaRica 
+Coted'Ivoire 
 Croatia 
 Cuba 
 Curacao 
 Cyprus 
 Czechia 
-Democratic Republic of Congo 
+DemocraticRepublicofCongo 
 Denmark 
 Djibouti 
 Dominica 
-Dominican Republic 
-East Timor 
+DominicanRepublic 
+EastTimor 
 Ecuador 
 Egypt 
-El Salvador 
-Equatorial Guinea 
+ElSalvador 
+EquatorialGuinea 
 Eritrea 
 Estonia 
 Eswatini 
 Ethiopia 
-Europe (excl. EU-27) 
-Europe (excl. EU-28) 
-Europe (GCP) 
+Europe(excl.EU-27) 
+Europe(excl.EU-28) 
+Europe(GCP) 
 Europe 
-European Union (27) 
-European Union (28) 
-Faroe Islands 
+EuropeanUnion(27) 
+EuropeanUnion(28) 
+FaroeIslands 
 Fiji 
 Finland 
 France 
-French Polynesia 
+FrenchPolynesia 
 Gabon 
 Gambia 
 Georgia 
@@ -96,16 +96,16 @@ Guinea-Bissau
 Guinea 
 Guyana 
 Haiti 
-High-income countries 
+High-incomecountries 
 Honduras 
-Hong Kong 
+HongKong 
 Hungary 
 Iceland 
 India 
 Indonesia 
-International aviation 
-International shipping 
-International transport 
+Internationalaviation 
+Internationalshipping 
+Internationaltransport 
 Iran 
 Iraq 
 Ireland 
@@ -119,20 +119,20 @@ Kenya
 Kiribati 
 Kosovo 
 Kuwait 
-Kuwaiti Oil Fires (GCP) 
-Kuwaiti Oil Fires 
+KuwaitiOilFires(GCP) 
+KuwaitiOilFires 
 Kyrgyzstan 
 Laos 
 Latvia 
-Least developed countries (Jones et al.) 
+Leastdevelopedcountries(Jonesetal.) 
 Lebanon 
 Lesotho 
 Liberia 
 Libya 
 Liechtenstein 
 Lithuania 
-Low-income countries 
-Lower-middle-income countries 
+Low-incomecountries 
+Lower-middle-incomecountries 
 Luxembourg 
 Macao 
 Madagascar 
@@ -141,12 +141,12 @@ Malaysia
 Maldives 
 Mali 
 Malta 
-Marshall Islands 
+MarshallIslands 
 Mauritania 
 Mauritius 
 Mexico 
-Micronesia (country) 
-Middle East (GCP) 
+Micronesia(country) 
+MiddleEast(GCP) 
 Moldova 
 Monaco 
 Mongolia 
@@ -159,29 +159,29 @@ Namibia
 Nauru 
 Nepal 
 Netherlands 
-New Caledonia 
-New Zealand 
+NewCaledonia 
+NewZealand 
 Nicaragua 
 Niger 
 Nigeria 
 Niue 
-Non-OECD (GCP) 
-North America (excl. USA) 
-North America (GCP) 
-North America 
-North Korea 
-North Macedonia 
+Non-OECD(GCP) 
+NorthAmerica(excl.USA) 
+NorthAmerica(GCP) 
+NorthAmerica 
+NorthKorea 
+NorthMacedonia 
 Norway 
-Oceania (GCP) 
+Oceania(GCP) 
 Oceania 
-OECD (GCP) 
-OECD (Jones et al.) 
+OECD(GCP) 
+OECD(Jonesetal.) 
 Oman 
 Pakistan 
 Palau 
 Palestine 
 Panama 
-Papua New Guinea 
+PapuaNewGuinea 
 Paraguay 
 Peru 
 Philippines 
@@ -191,34 +191,34 @@ Qatar
 Romania 
 Russia 
 Rwanda 
-Ryukyu Islands (GCP) 
-Ryukyu Islands 
-Saint Helena 
-Saint Kitts and Nevis 
-Saint Lucia 
-Saint Pierre and Miquelon 
-Saint Vincent and the Grenadines 
+RyukyuIslands(GCP) 
+RyukyuIslands 
+SaintHelena 
+SaintKittsandNevis 
+SaintLucia 
+SaintPierreandMiquelon 
+SaintVincentandtheGrenadines 
 Samoa 
-San Marino 
-Sao Tome and Principe 
-Saudi Arabia 
+SanMarino 
+SaoTomeandPrincipe 
+SaudiArabia 
 Senegal 
 Serbia 
 Seychelles 
-Sierra Leone 
+SierraLeone 
 Singapore 
-Sint Maarten (Dutch part) 
+SintMaarten(Dutchpart) 
 Slovakia 
 Slovenia 
-Solomon Islands 
+SolomonIslands 
 Somalia 
-South Africa 
-South America (GCP) 
-South America 
-South Korea 
-South Sudan 
+SouthAfrica 
+SouthAmerica(GCP) 
+SouthAmerica 
+SouthKorea 
+SouthSudan 
 Spain 
-Sri Lanka 
+SriLanka 
 Sudan 
 Suriname 
 Sweden 
@@ -230,25 +230,25 @@ Tanzania
 Thailand 
 Togo 
 Tonga 
-Trinidad and Tobago 
+TrinidadandTobago 
 Tunisia 
 Turkey 
 Turkmenistan 
-Turks and Caicos Islands 
+TurksandCaicosIslands 
 Tuvalu 
 Uganda 
 Ukraine 
-United Arab Emirates 
-United Kingdom 
-United States 
-Upper-middle-income countries 
+UnitedArabEmirates 
+UnitedKingdom 
+UnitedStates 
+Upper-middle-incomecountries 
 Uruguay 
 Uzbekistan 
 Vanuatu 
 Vatican 
 Venezuela 
 Vietnam 
-Wallis and Futuna 
+WallisandFutuna 
 World 
 Yemen 
 Zambia 

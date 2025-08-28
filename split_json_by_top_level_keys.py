@@ -9,7 +9,7 @@ def split_json_by_top_level_keys(input_json_path, output_directory):
 
     for key, value in data.items():
         output_data = {key: value}
-        output_filename = os.path.join(output_directory, f"{key}.json")
+        output_filename = os.path.join(output_directory, f"{key.replace(" ", "")}.json")
 
         with open(output_filename, 'w', encoding='utf-8') as outfile:
             json.dump(output_data, outfile, separators=(',', ':'))
